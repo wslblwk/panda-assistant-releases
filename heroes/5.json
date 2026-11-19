@@ -1,0 +1,316 @@
+{
+  "schema": 1,
+  "id": 5,
+  "name": "赵信",
+  "builds": [
+    {
+      "name": "常规出装",
+      "author": "",
+      "notes": "有物法皆修且对面肉多的话，可以多出几件肉装，无限叠法强，脆皮看一眼就会死",
+      "skills": [
+        "W",
+        "E"
+      ],
+      "spells": [
+        {
+          "id": 32,
+          "name": "标记"
+        },
+        {
+          "id": 4,
+          "name": "闪现"
+        }
+      ],
+      "pentakill": [
+        {
+          "level": 1,
+          "skill": "W"
+        },
+        {
+          "level": 18,
+          "skill": "E"
+        }
+      ],
+      "starting": [
+        {
+          "id": 223177,
+          "name": "守护者之刃"
+        },
+        {
+          "id": 1042,
+          "name": "短剑"
+        }
+      ],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 223087,
+              "name": "斯塔缇克电刃",
+              "tip": "核心装备"
+            },
+            {
+              "id": 222510,
+              "name": "黄昏与黎明",
+              "tip": "核心装备"
+            },
+            {
+              "id": 224633,
+              "name": "裂隙制造者"
+            },
+            {
+              "id": 226333,
+              "name": "死亡之舞"
+            },
+            {
+              "id": 223065,
+              "name": "振奋盔甲"
+            },
+            {
+              "id": 223111,
+              "name": "水银之靴"
+            }
+          ]
+        },
+        {
+          "title": "备选装备",
+          "items": [
+            {
+              "id": 223084,
+              "name": "心之钢",
+              "tip": "对面前排多考虑"
+            },
+            {
+              "id": 223124,
+              "name": "鬼索的狂暴之刃"
+            },
+            {
+              "id": 223115,
+              "name": "纳什之牙"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 1087,
+              "name": "台风",
+              "highlighted": true
+            },
+            {
+              "id": 2009,
+              "name": "狂热者",
+              "highlighted": true
+            },
+            {
+              "id": 3134,
+              "name": "孤勇者",
+              "highlighted": true
+            },
+            {
+              "id": 2157,
+              "name": "升级：死亡之舞"
+            },
+            {
+              "id": 3085,
+              "name": "灵魂乐流"
+            },
+            {
+              "id": 1022,
+              "name": "灵巧"
+            },
+            {
+              "id": 1333,
+              "name": "逃跑计划"
+            },
+            {
+              "id": 1205,
+              "name": "物理转魔法"
+            },
+            {
+              "id": 3094,
+              "name": "巫妖大脑"
+            },
+            {
+              "id": 1138,
+              "name": "渴血"
+            },
+            {
+              "id": 1007,
+              "name": "大力"
+            },
+            {
+              "id": 1305,
+              "name": "练腿日"
+            },
+            {
+              "id": 1170,
+              "name": "万用瞄准镜"
+            },
+            {
+              "id": 1073,
+              "name": "暗影疾奔"
+            },
+            {
+              "id": 2016,
+              "name": "注魔"
+            },
+            {
+              "id": 1097,
+              "name": "巫师式思考"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 1390,
+              "name": "超凡邪恶",
+              "highlighted": true
+            },
+            {
+              "id": 1029,
+              "name": "虚幻武器",
+              "highlighted": true
+            },
+            {
+              "id": 3131,
+              "name": "屹立不倒",
+              "highlighted": true
+            },
+            {
+              "id": 3081,
+              "name": "命运之武器",
+              "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)",
+              "highlighted": true
+            },
+            {
+              "id": 3116,
+              "name": "将他们放倒倒倒",
+              "highlighted": true
+            },
+            {
+              "id": 3078,
+              "name": "鼓声暴起 低音轰鸣",
+              "highlighted": true
+            },
+            {
+              "id": 1996,
+              "name": "升级：耀光"
+            },
+            {
+              "id": 3129,
+              "name": "吸元秘术"
+            },
+            {
+              "id": 3086,
+              "name": "小蜜蜂！！！"
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 3132,
+              "name": "王冠之重"
+            },
+            {
+              "id": 2132,
+              "name": "术士果汁盒"
+            },
+            {
+              "id": 3058,
+              "name": "嗡嗡怪兽"
+            },
+            {
+              "id": 1071,
+              "name": "更万用的瞄准镜"
+            },
+            {
+              "id": 3088,
+              "name": "深红钴蓝闪光"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 1054,
+              "name": "物法皆修",
+              "highlighted": true
+            },
+            {
+              "id": 1058,
+              "name": "秘术冲拳"
+            },
+            {
+              "id": 1225,
+              "name": "双刀流"
+            },
+            {
+              "id": 1004,
+              "name": "回归基本功"
+            },
+            {
+              "id": 1041,
+              "name": "歌利亚巨人"
+            },
+            {
+              "id": 2141,
+              "name": "终极九头蛇"
+            },
+            {
+              "id": 1079,
+              "name": "战争交响乐"
+            },
+            {
+              "id": 1310,
+              "name": "小丑学院"
+            },
+            {
+              "id": 1015,
+              "name": "死亡之环"
+            },
+            {
+              "id": 1053,
+              "name": "科学狂人"
+            },
+            {
+              "id": 3016,
+              "name": "伤不过三"
+            },
+            {
+              "id": 1154,
+              "name": "海牛阿福的勇士"
+            },
+            {
+              "id": 1081,
+              "name": "踢踏舞"
+            },
+            {
+              "id": 2005,
+              "name": "扳机炼狱"
+            },
+            {
+              "id": 2123,
+              "name": "超负荷"
+            },
+            {
+              "id": 1329,
+              "name": "史上最大雪球",
+              "gameplay": "推荐AP出装：\n![装备:卢登的回声](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226655.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:影焰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224645.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:灭世者的死亡之帽](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223089.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:虚空之杖](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223135.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
+            }
+          ]
+        }
+      ],
+      "traps": []
+    }
+  ],
+  "title": "德邦总管"
+}

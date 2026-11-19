@@ -1,0 +1,314 @@
+{
+  "schema": 1,
+  "id": 34,
+  "name": "艾尼维亚",
+  "builds": [
+    {
+      "name": "常规出装",
+      "author": "",
+      "notes": "",
+      "skills": [
+        "E",
+        "Q"
+      ],
+      "spells": [
+        {
+          "id": 6,
+          "name": "幽灵疾步"
+        },
+        {
+          "id": 4,
+          "name": "闪现"
+        }
+      ],
+      "pentakill": [
+        {
+          "level": 1,
+          "skill": "E"
+        },
+        {
+          "level": 18,
+          "skill": "R"
+        }
+      ],
+      "starting": [
+        {
+          "id": 323070,
+          "name": "女神之泪"
+        },
+        {
+          "id": 221026,
+          "name": "爆裂魔杖"
+        }
+      ],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 226657,
+              "name": "时光之杖"
+            },
+            {
+              "id": 226653,
+              "name": "兰德里的苦楚"
+            },
+            {
+              "id": 4010,
+              "name": "放血者的诅咒"
+            },
+            {
+              "id": 223003,
+              "name": "大天使之杖",
+              "replacement": {
+                "id": 223119,
+                "name": "凛冬之临"
+              }
+            },
+            {
+              "id": 224633,
+              "name": "裂隙制造者"
+            },
+            {
+              "id": 223008,
+              "name": "暴食胫甲"
+            }
+          ]
+        },
+        {
+          "title": "备选装备",
+          "items": [
+            {
+              "id": 223157,
+              "name": "中娅沙漏"
+            },
+            {
+              "id": 443083,
+              "name": "狂徒铠甲"
+            },
+            {
+              "id": 222503,
+              "name": "黯炎火炬"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 1056,
+              "name": "由心及物",
+              "highlighted": true
+            },
+            {
+              "id": 3094,
+              "name": "巫妖大脑",
+              "highlighted": true
+            },
+            {
+              "id": 1044,
+              "name": "冰寒"
+            },
+            {
+              "id": 3051,
+              "name": "蓝色屏障"
+            },
+            {
+              "id": 1318,
+              "name": "升级：中娅"
+            },
+            {
+              "id": 1105,
+              "name": "家园卫士"
+            },
+            {
+              "id": 1028,
+              "name": "侵蚀"
+            },
+            {
+              "id": 1205,
+              "name": "物理转魔法"
+            },
+            {
+              "id": 3059,
+              "name": "没法力，没问题"
+            },
+            {
+              "id": 1097,
+              "name": "巫师式思考"
+            },
+            {
+              "id": 1415,
+              "name": "双生火焰"
+            },
+            {
+              "id": 1112,
+              "name": "终极不可阻挡"
+            },
+            {
+              "id": 1136,
+              "name": "扇巴掌"
+            },
+            {
+              "id": 1060,
+              "name": "海洋龙魂"
+            },
+            {
+              "id": 1046,
+              "name": "炼狱龙魂"
+            },
+            {
+              "id": 2136,
+              "name": "可靠武器"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 2129,
+              "name": "地形专家"
+            },
+            {
+              "id": 2132,
+              "name": "术士果汁盒"
+            },
+            {
+              "id": 3086,
+              "name": "小蜜蜂！！！"
+            },
+            {
+              "id": 1133,
+              "name": "魔法飞弹"
+            },
+            {
+              "id": 1390,
+              "name": "超凡邪恶"
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 1373,
+              "name": "缩小引擎"
+            },
+            {
+              "id": 3081,
+              "name": "命运之武器",
+              "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
+            },
+            {
+              "id": 1211,
+              "name": "杀戮时间到了"
+            },
+            {
+              "id": 2077,
+              "name": "贪欲束缚"
+            },
+            {
+              "id": 3036,
+              "name": "翻倍时间"
+            },
+            {
+              "id": 1113,
+              "name": "老练狙神"
+            },
+            {
+              "id": 3150,
+              "name": "升级：风暴狂涌"
+            },
+            {
+              "id": 3116,
+              "name": "将他们放倒倒倒"
+            },
+            {
+              "id": 2103,
+              "name": "狙神飞星"
+            },
+            {
+              "id": 1038,
+              "name": "有始有终"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 1194,
+              "name": "精怪魔法",
+              "highlighted": true
+            },
+            {
+              "id": 1344,
+              "name": "最终形态"
+            },
+            {
+              "id": 1030,
+              "name": "尤里卡"
+            },
+            {
+              "id": 1048,
+              "name": "珠光护手",
+              "gameplay": "无论刺客或者法师拿到，都可出 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)，可以增加暴击伤害，比暴击书的性价比高"
+            },
+            {
+              "id": 2054,
+              "name": "三重射击"
+            },
+            {
+              "id": 1045,
+              "name": "炼狱导管"
+            },
+            {
+              "id": 1388,
+              "name": "无限循环往复"
+            },
+            {
+              "id": 1011,
+              "name": "你摸不到"
+            },
+            {
+              "id": 1156,
+              "name": "沃格勒特的巫师帽"
+            },
+            {
+              "id": 1053,
+              "name": "科学狂人"
+            },
+            {
+              "id": 1349,
+              "name": "终极唤醒"
+            },
+            {
+              "id": 1195,
+              "name": "巨人杀手"
+            },
+            {
+              "id": 1062,
+              "name": "全能龙魂"
+            },
+            {
+              "id": 1335,
+              "name": "夺金"
+            },
+            {
+              "id": 1389,
+              "name": "男爵之手"
+            },
+            {
+              "id": 2087,
+              "name": "大法师"
+            }
+          ]
+        }
+      ],
+      "traps": []
+    }
+  ],
+  "title": "冰晶凤凰"
+}

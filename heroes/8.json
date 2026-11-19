@@ -1,0 +1,448 @@
+{
+  "schema": 1,
+  "id": 8,
+  "name": "弗拉基米尔",
+  "builds": [
+    {
+      "name": "常规出装",
+      "author": "",
+      "notes": "",
+      "skills": [
+        "Q",
+        "E"
+      ],
+      "spells": [
+        {
+          "id": 32,
+          "name": "标记"
+        },
+        {
+          "id": 6,
+          "name": "幽灵疾步"
+        }
+      ],
+      "starting": [
+        {
+          "id": 1052,
+          "name": "增幅典籍"
+        },
+        {
+          "id": 223112,
+          "name": "守护者法球"
+        }
+      ],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 224629,
+              "name": "星界驱驰",
+              "replacement": {
+                "id": 224646,
+                "name": "风暴狂涌"
+              }
+            },
+            {
+              "id": 224645,
+              "name": "影焰"
+            },
+            {
+              "id": 223089,
+              "name": "灭世者的死亡之帽"
+            },
+            {
+              "id": 223135,
+              "name": "虚空之杖"
+            },
+            {
+              "id": 224633,
+              "name": "裂隙制造者"
+            },
+            {
+              "id": 223008,
+              "name": "暴食胫甲"
+            }
+          ]
+        },
+        {
+          "title": "物转法+心之钢出装",
+          "items": [
+            {
+              "id": 223084,
+              "name": "心之钢"
+            },
+            {
+              "id": 443083,
+              "name": "狂徒铠甲"
+            },
+            {
+              "id": 224633,
+              "name": "裂隙制造者"
+            },
+            {
+              "id": 447111,
+              "name": "霸王血铠"
+            },
+            {
+              "id": 223089,
+              "name": "灭世者的死亡之帽"
+            },
+            {
+              "id": 223161,
+              "name": "朔极之矛"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 3094,
+              "name": "巫妖大脑",
+              "highlighted": true
+            },
+            {
+              "id": 1205,
+              "name": "物理转魔法",
+              "tip": "出第二套装，法强破千",
+              "highlighted": true
+            },
+            {
+              "id": 2018,
+              "name": "纯粹主义者 - 术师",
+              "tip": "出纳什，CD达到345时，可无限W",
+              "gameplay": "居家办公的核心海克斯，比如：提莫、寒冰、死歌、AP船长等\n\n前期出： ![装备:纳什之牙](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223115.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:巫妖之祸](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223100.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) \n\n等后期CD起来再换掉出其他伤害装备或蓝量装"
+            },
+            {
+              "id": 2076,
+              "name": "保持坚定",
+              "tip": "E"
+            },
+            {
+              "id": 1097,
+              "name": "巫师式思考"
+            },
+            {
+              "id": 1333,
+              "name": "逃跑计划"
+            },
+            {
+              "id": 1305,
+              "name": "练腿日"
+            },
+            {
+              "id": 1138,
+              "name": "渴血"
+            },
+            {
+              "id": 2131,
+              "name": "别停止引导"
+            },
+            {
+              "id": 1318,
+              "name": "升级：中娅"
+            },
+            {
+              "id": 3059,
+              "name": "没法力，没问题"
+            },
+            {
+              "id": 2026,
+              "name": "杀意翻涌"
+            },
+            {
+              "id": 1308,
+              "name": "火狐"
+            },
+            {
+              "id": 1060,
+              "name": "海洋龙魂"
+            },
+            {
+              "id": 1026,
+              "name": "唯快不破"
+            },
+            {
+              "id": 3055,
+              "name": "终极循环往复"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 3081,
+              "name": "命运之武器",
+              "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)",
+              "highlighted": true
+            },
+            {
+              "id": 3150,
+              "name": "升级：风暴狂涌",
+              "highlighted": true
+            },
+            {
+              "id": 1038,
+              "name": "有始有终",
+              "highlighted": true
+            },
+            {
+              "id": 1353,
+              "name": "坦克引擎"
+            },
+            {
+              "id": 2132,
+              "name": "术士果汁盒"
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 1373,
+              "name": "缩小引擎"
+            },
+            {
+              "id": 1152,
+              "name": "钢化你心"
+            },
+            {
+              "id": 1390,
+              "name": "超凡邪恶"
+            },
+            {
+              "id": 1013,
+              "name": "星界躯体"
+            },
+            {
+              "id": 1098,
+              "name": "急急小子"
+            },
+            {
+              "id": 1029,
+              "name": "虚幻武器"
+            },
+            {
+              "id": 1150,
+              "name": "面包和果酱"
+            },
+            {
+              "id": 1103,
+              "name": "面包和黄油"
+            },
+            {
+              "id": 3086,
+              "name": "小蜜蜂！！！"
+            },
+            {
+              "id": 3132,
+              "name": "王冠之重"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 1004,
+              "name": "回归基本功",
+              "highlighted": true
+            },
+            {
+              "id": 1388,
+              "name": "无限循环往复",
+              "highlighted": true
+            },
+            {
+              "id": 1015,
+              "name": "死亡之环",
+              "highlighted": true
+            },
+            {
+              "id": 1030,
+              "name": "尤里卡"
+            },
+            {
+              "id": 1041,
+              "name": "歌利亚巨人"
+            },
+            {
+              "id": 1053,
+              "name": "科学狂人",
+              "highlighted": true
+            },
+            {
+              "id": 1156,
+              "name": "沃格勒特的巫师帽",
+              "highlighted": true
+            },
+            {
+              "id": 1332,
+              "name": "不祥契约"
+            },
+            {
+              "id": 1195,
+              "name": "巨人杀手"
+            },
+            {
+              "id": 1048,
+              "name": "珠光护手",
+              "gameplay": "无论刺客或者法师拿到，都可出 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)，可以增加暴击伤害，比暴击书的性价比高"
+            },
+            {
+              "id": 1349,
+              "name": "终极唤醒"
+            },
+            {
+              "id": 1329,
+              "name": "史上最大雪球",
+              "gameplay": "推荐AP出装：\n![装备:卢登的回声](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226655.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:影焰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224645.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:灭世者的死亡之帽](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223089.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:虚空之杖](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223135.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
+            },
+            {
+              "id": 1361,
+              "name": "艾卡西亚的陷落"
+            },
+            {
+              "id": 2098,
+              "name": "吃过路兵"
+            },
+            {
+              "id": 1062,
+              "name": "全能龙魂"
+            },
+            {
+              "id": 1389,
+              "name": "男爵之手"
+            }
+          ]
+        }
+      ],
+      "traps": []
+    },
+    {
+      "name": "无限W",
+      "author": "",
+      "notes": "无限W其实挺难，有三条线：\n1. 大法师：CD需要堆到200+，然后用WE互刷\n2. 炼狱导管：CD需要160+，然后W需要覆盖到两人，如果有术士，会比较简单\n3. 只有术士：CD需要340+，成型很难，如果有尤里卡或者无限循环往复，会简单一点",
+      "skills": [
+        "W",
+        "E"
+      ],
+      "starting": [],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 224629,
+              "name": "星界驱驰"
+            },
+            {
+              "id": 224633,
+              "name": "裂隙制造者"
+            },
+            {
+              "id": 226653,
+              "name": "兰德里的苦楚"
+            },
+            {
+              "id": 223137,
+              "name": "蜕生"
+            },
+            {
+              "id": 223089,
+              "name": "灭世者的死亡之帽"
+            },
+            {
+              "id": 223008,
+              "name": "暴食胫甲"
+            }
+          ]
+        },
+        {
+          "title": "有术士",
+          "items": [
+            {
+              "id": 223100,
+              "name": "巫妖之祸",
+              "tip": "星界换巫妖"
+            },
+            {
+              "id": 223115,
+              "name": "纳什之牙",
+              "tip": "蜕生换纳什"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 2018,
+              "name": "纯粹主义者 - 术师",
+              "tip": "出备选两件套",
+              "gameplay": "居家办公的核心海克斯，比如：提莫、寒冰、死歌、AP船长等\n\n前期出： ![装备:纳什之牙](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223115.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:巫妖之祸](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223100.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) \n\n等后期CD起来再换掉出其他伤害装备或蓝量装"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 1150,
+              "name": "面包和果酱"
+            },
+            {
+              "id": 2100,
+              "name": "急速之追求",
+              "tip": "W"
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 2132,
+              "name": "术士果汁盒"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 2087,
+              "name": "大法师",
+              "tip": "需要200+CD，然后EW互刷"
+            },
+            {
+              "id": 1045,
+              "name": "炼狱导管",
+              "tip": "CD达到160，W需挂到两人"
+            },
+            {
+              "id": 1030,
+              "name": "尤里卡"
+            },
+            {
+              "id": 1388,
+              "name": "无限循环往复"
+            },
+            {
+              "id": 1004,
+              "name": "回归基本功",
+              "highlighted": true
+            }
+          ]
+        }
+      ],
+      "traps": []
+    }
+  ],
+  "title": "猩红收割者"
+}

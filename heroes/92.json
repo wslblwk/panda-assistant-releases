@@ -1,0 +1,321 @@
+{
+  "schema": 1,
+  "id": 92,
+  "name": "锐雯",
+  "builds": [
+    {
+      "name": "常规出装",
+      "author": "",
+      "notes": "",
+      "skills": [
+        "Q",
+        "E"
+      ],
+      "spells": [
+        {
+          "id": 32,
+          "name": "标记"
+        },
+        {
+          "id": 4,
+          "name": "闪现"
+        }
+      ],
+      "pentakill": [
+        {
+          "level": 1,
+          "skill": "Q"
+        },
+        {
+          "level": 18,
+          "skill": "R"
+        }
+      ],
+      "starting": [
+        {
+          "id": 223177,
+          "name": "守护者之刃"
+        },
+        {
+          "id": 1036,
+          "name": "长剑"
+        }
+      ],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 226697,
+              "name": "狂妄"
+            },
+            {
+              "id": 226696,
+              "name": "公理圆弧"
+            },
+            {
+              "id": 223036,
+              "name": "多米尼克领主的致意"
+            },
+            {
+              "id": 226333,
+              "name": "死亡之舞"
+            },
+            {
+              "id": 222517,
+              "name": "无穷饥渴"
+            },
+            {
+              "id": 223111,
+              "name": "水银之靴"
+            }
+          ]
+        },
+        {
+          "title": "备选装备",
+          "items": [
+            {
+              "id": 226699,
+              "name": "电震涡流剑"
+            },
+            {
+              "id": 222512,
+              "name": "猎魔人弩箭"
+            },
+            {
+              "id": 223161,
+              "name": "朔极之矛"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 1315,
+              "name": "快中求稳",
+              "highlighted": true
+            },
+            {
+              "id": 1073,
+              "name": "暗影疾奔",
+              "highlighted": true
+            },
+            {
+              "id": 1007,
+              "name": "大力",
+              "highlighted": true
+            },
+            {
+              "id": 2157,
+              "name": "升级：死亡之舞"
+            },
+            {
+              "id": 1214,
+              "name": "旋转至胜"
+            },
+            {
+              "id": 2076,
+              "name": "保持坚定"
+            },
+            {
+              "id": 1333,
+              "name": "逃跑计划"
+            },
+            {
+              "id": 1136,
+              "name": "扇巴掌"
+            },
+            {
+              "id": 1138,
+              "name": "渴血"
+            },
+            {
+              "id": 2144,
+              "name": "加固护盾"
+            },
+            {
+              "id": 1314,
+              "name": "强力护盾"
+            },
+            {
+              "id": 1305,
+              "name": "练腿日"
+            },
+            {
+              "id": 3055,
+              "name": "终极循环往复"
+            },
+            {
+              "id": 1320,
+              "name": "升级：收集者"
+            },
+            {
+              "id": 3134,
+              "name": "孤勇者"
+            },
+            {
+              "id": 1112,
+              "name": "终极不可阻挡"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 1063,
+              "name": "狂徒豪气",
+              "highlighted": true
+            },
+            {
+              "id": 2140,
+              "name": "升级：贪欲九头蛇",
+              "highlighted": true
+            },
+            {
+              "id": 3078,
+              "name": "鼓声暴起 低音轰鸣",
+              "highlighted": true
+            },
+            {
+              "id": 3081,
+              "name": "命运之武器",
+              "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)",
+              "highlighted": true
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 3116,
+              "name": "将他们放倒倒倒",
+              "highlighted": true
+            },
+            {
+              "id": 3129,
+              "name": "吸元秘术"
+            },
+            {
+              "id": 2077,
+              "name": "贪欲束缚"
+            },
+            {
+              "id": 3123,
+              "name": "珠光手镯"
+            },
+            {
+              "id": 1029,
+              "name": "虚幻武器"
+            },
+            {
+              "id": 3131,
+              "name": "屹立不倒"
+            },
+            {
+              "id": 1103,
+              "name": "面包和黄油"
+            },
+            {
+              "id": 3004,
+              "name": "罪恶快感！"
+            },
+            {
+              "id": 1116,
+              "name": "闪现向前"
+            },
+            {
+              "id": 1373,
+              "name": "缩小引擎"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 1053,
+              "name": "科学狂人",
+              "highlighted": true
+            },
+            {
+              "id": 1027,
+              "name": "大地苏醒",
+              "highlighted": true
+            },
+            {
+              "id": 1019,
+              "name": "全凭身法"
+            },
+            {
+              "id": 1310,
+              "name": "小丑学院"
+            },
+            {
+              "id": 2141,
+              "name": "终极九头蛇"
+            },
+            {
+              "id": 1388,
+              "name": "无限循环往复"
+            },
+            {
+              "id": 1344,
+              "name": "最终形态"
+            },
+            {
+              "id": 1349,
+              "name": "终极唤醒"
+            },
+            {
+              "id": 2123,
+              "name": "超负荷"
+            },
+            {
+              "id": 1048,
+              "name": "珠光护手",
+              "gameplay": "无论刺客或者法师拿到，都可出 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)，可以增加暴击伤害，比暴击书的性价比高"
+            },
+            {
+              "id": 2005,
+              "name": "扳机炼狱"
+            },
+            {
+              "id": 2087,
+              "name": "大法师"
+            },
+            {
+              "id": 1058,
+              "name": "秘术冲拳"
+            },
+            {
+              "id": 1041,
+              "name": "歌利亚巨人"
+            },
+            {
+              "id": 1329,
+              "name": "史上最大雪球",
+              "gameplay": "推荐AP出装：\n![装备:卢登的回声](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226655.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:影焰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224645.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:灭世者的死亡之帽](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223089.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:虚空之杖](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223135.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
+            }
+          ]
+        }
+      ],
+      "traps": [
+        {
+          "id": 1029,
+          "name": "虚幻武器",
+          "tip": "无法触发被动"
+        },
+        {
+          "id": 2087,
+          "name": "大法师",
+          "tip": "三段q不能减CD"
+        }
+      ]
+    }
+  ],
+  "title": "放逐之刃"
+}

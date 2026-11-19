@@ -1,0 +1,339 @@
+{
+  "schema": 1,
+  "id": 120,
+  "name": "赫卡里姆",
+  "builds": [
+    {
+      "name": "常规出装",
+      "author": "",
+      "notes": "人马胡的符文太多了，看到无脑拿就行~",
+      "skills": [
+        "Q",
+        "W"
+      ],
+      "spells": [
+        {
+          "id": 6,
+          "name": "幽灵疾步"
+        },
+        {
+          "id": 32,
+          "name": "标记"
+        }
+      ],
+      "pentakill": [
+        {
+          "level": 1,
+          "skill": "Q"
+        },
+        {
+          "level": 18,
+          "skill": "W"
+        }
+      ],
+      "starting": [
+        {
+          "id": 323070,
+          "name": "女神之泪"
+        },
+        {
+          "id": 223177,
+          "name": "守护者之刃"
+        }
+      ],
+      "groups": [
+        {
+          "title": "常规出装",
+          "items": [
+            {
+              "id": 223161,
+              "name": "朔极之矛"
+            },
+            {
+              "id": 226333,
+              "name": "死亡之舞"
+            },
+            {
+              "id": 222517,
+              "name": "无穷饥渴"
+            },
+            {
+              "id": 223071,
+              "name": "黑色切割者"
+            },
+            {
+              "id": 223042,
+              "name": "魔切"
+            },
+            {
+              "id": 223008,
+              "name": "暴食胫甲"
+            }
+          ]
+        },
+        {
+          "title": "备选装备",
+          "items": [
+            {
+              "id": 223065,
+              "name": "振奋盔甲",
+              "tip": "ap多出振奋"
+            },
+            {
+              "id": 226696,
+              "name": "公理圆弧"
+            },
+            {
+              "id": 223033,
+              "name": "凡性的提醒"
+            }
+          ]
+        }
+      ],
+      "augments": [
+        {
+          "tier": "银色",
+          "assets": [
+            {
+              "id": 2076,
+              "name": "保持坚定",
+              "highlighted": true
+            },
+            {
+              "id": 1214,
+              "name": "旋转至胜",
+              "highlighted": true
+            },
+            {
+              "id": 2136,
+              "name": "可靠武器",
+              "highlighted": true
+            },
+            {
+              "id": 3051,
+              "name": "蓝色屏障",
+              "highlighted": true
+            },
+            {
+              "id": 1333,
+              "name": "逃跑计划",
+              "highlighted": true
+            },
+            {
+              "id": 1007,
+              "name": "大力"
+            },
+            {
+              "id": 2018,
+              "name": "纯粹主义者 - 术师",
+              "gameplay": "居家办公的核心海克斯，比如：提莫、寒冰、死歌、AP船长等\n\n前期出： ![装备:纳什之牙](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223115.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:巫妖之祸](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223100.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) \n\n等后期CD起来再换掉出其他伤害装备或蓝量装"
+            },
+            {
+              "id": 2157,
+              "name": "升级：死亡之舞"
+            },
+            {
+              "id": 2138,
+              "name": "自适应防护"
+            },
+            {
+              "id": 1138,
+              "name": "渴血"
+            },
+            {
+              "id": 1305,
+              "name": "练腿日"
+            },
+            {
+              "id": 1026,
+              "name": "唯快不破"
+            },
+            {
+              "id": 1206,
+              "name": "魔法转物理"
+            },
+            {
+              "id": 2026,
+              "name": "杀意翻涌"
+            },
+            {
+              "id": 1112,
+              "name": "终极不可阻挡"
+            },
+            {
+              "id": 1056,
+              "name": "由心及物"
+            }
+          ]
+        },
+        {
+          "tier": "金色",
+          "assets": [
+            {
+              "id": 3078,
+              "name": "鼓声暴起 低音轰鸣",
+              "tip": "搭配术士可以无限Q",
+              "highlighted": true
+            },
+            {
+              "id": 3116,
+              "name": "将他们放倒倒倒",
+              "highlighted": true
+            },
+            {
+              "id": 3081,
+              "name": "命运之武器",
+              "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)",
+              "highlighted": true
+            },
+            {
+              "id": 1103,
+              "name": "面包和黄油",
+              "highlighted": true
+            },
+            {
+              "id": 1029,
+              "name": "虚幻武器",
+              "tip": "搭配秘术无限Q"
+            },
+            {
+              "id": 1068,
+              "name": "循环往复"
+            },
+            {
+              "id": 3129,
+              "name": "吸元秘术"
+            },
+            {
+              "id": 1373,
+              "name": "缩小引擎"
+            },
+            {
+              "id": 1098,
+              "name": "急急小子"
+            },
+            {
+              "id": 2140,
+              "name": "升级：贪欲九头蛇"
+            },
+            {
+              "id": 2064,
+              "name": "快步"
+            },
+            {
+              "id": 3004,
+              "name": "罪恶快感！"
+            },
+            {
+              "id": 1322,
+              "name": "罪恶快感"
+            },
+            {
+              "id": 3118,
+              "name": "奥术公理"
+            },
+            {
+              "id": 3086,
+              "name": "小蜜蜂！！！"
+            },
+            {
+              "id": 3036,
+              "name": "翻倍时间"
+            }
+          ]
+        },
+        {
+          "tier": "棱彩",
+          "assets": [
+            {
+              "id": 1349,
+              "name": "终极唤醒",
+              "highlighted": true
+            },
+            {
+              "id": 1004,
+              "name": "回归基本功",
+              "highlighted": true
+            },
+            {
+              "id": 2005,
+              "name": "扳机炼狱",
+              "tip": "加强后很厉害",
+              "highlighted": true
+            },
+            {
+              "id": 1058,
+              "name": "秘术冲拳",
+              "highlighted": true
+            },
+            {
+              "id": 1388,
+              "name": "无限循环往复",
+              "highlighted": true
+            },
+            {
+              "id": 1053,
+              "name": "科学狂人"
+            },
+            {
+              "id": 1195,
+              "name": "巨人杀手"
+            },
+            {
+              "id": 1344,
+              "name": "最终形态"
+            },
+            {
+              "id": 2062,
+              "name": "回响施放",
+              "tip": "Q"
+            },
+            {
+              "id": 2087,
+              "name": "大法师"
+            },
+            {
+              "id": 1041,
+              "name": "歌利亚巨人"
+            },
+            {
+              "id": 2141,
+              "name": "终极九头蛇"
+            },
+            {
+              "id": 2098,
+              "name": "吃过路兵"
+            },
+            {
+              "id": 1310,
+              "name": "小丑学院"
+            },
+            {
+              "id": 1048,
+              "name": "珠光护手",
+              "gameplay": "无论刺客或者法师拿到，都可出 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)，可以增加暴击伤害，比暴击书的性价比高"
+            }
+          ]
+        }
+      ],
+      "traps": [
+        {
+          "id": 2016,
+          "name": "注魔",
+          "tip": "和魔切叠加，蓝耗非常恐怖"
+        },
+        {
+          "id": 2005,
+          "name": "扳机炼狱",
+          "tip": "陷阱符文，只能第一个拿建立优势，后续第二第三个拿会影响手感，那点伤害都不够QWQ一直刮的伤害，而且不能用Q很麻烦，限制了人马主要输出技能"
+        },
+        {
+          "id": 1001,
+          "name": "泰坦的坚决",
+          "tip": "不能触发"
+        }
+      ]
+    }
+  ],
+  "title": "战争之影"
+}
