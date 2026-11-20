@@ -14,11 +14,13 @@
       "spells": [
         {
           "id": 32,
-          "name": "标记"
+          "name": "标记",
+          "description": "沿直线扔出一个雪球。如果雪球命中了一个敌人，那么这个敌人会被【标记】，提供真实视野，并且你的英雄接下来可以快速突进到被【标记】的目标旁边。"
         },
         {
           "id": 4,
-          "name": "闪现"
+          "name": "闪现",
+          "description": "使你朝着你的指针位置瞬间传送一小段距离。"
         }
       ],
       "pentakill": [
@@ -34,11 +36,13 @@
       "starting": [
         {
           "id": 223177,
-          "name": "守护者之刃"
+          "name": "守护者之刃",
+          "description": "25攻击力\n250生命值\n15技能急速"
         },
         {
           "id": 1028,
-          "name": "红水晶"
+          "name": "红水晶",
+          "description": "150生命值"
         }
       ],
       "groups": [
@@ -47,27 +51,33 @@
           "items": [
             {
               "id": 223748,
-              "name": "巨型九头蛇"
+              "name": "巨型九头蛇",
+              "description": "40攻击力\n400生命值\n巨像：获得基于额外生命值的攻击力。顺劈：攻击附带额外伤害攻击特效，并生成一道冲击波来对目标身后的敌人们造成物理伤害。刚斩\n强化你的下一次顺劈，使其造成额外物理伤害 攻击特效并对目标身后的敌人们造成额外物理伤害。"
             },
             {
               "id": 226333,
-              "name": "死亡之舞"
+              "name": "死亡之舞",
+              "description": "60攻击力\n10技能急速\n45护甲\n无视痛苦\n所受的伤害会以流血形式持续扣除。\n蔑视：\n参与击杀英雄后会净化无视痛苦的剩余伤害，并持续回复生命值。"
             },
             {
               "id": 223153,
-              "name": "破败王者之刃"
+              "name": "破败王者之刃",
+              "description": "30攻击力\n20%攻击速度\n10%生命偷取\n雾之锋\n攻击附带额外的敌人当前生命值的物理伤害 攻击特效。\n抓挠之影 (0秒)\n攻击一位英雄3次会对其造成减速。"
             },
             {
               "id": 223065,
-              "name": "振奋盔甲"
+              "name": "振奋盔甲",
+              "description": "300生命值\n40魔法抗性\n10技能急速\n无拘活力\n使你所受的全部治疗和护盾的效果提升30%。"
             },
             {
               "id": 223302,
-              "name": "界弓"
+              "name": "界弓",
+              "description": "30攻击力\n40%攻击速度\n晦影\n攻击造成0额外魔法伤害 攻击特效。\n交相\n对抗英雄时，在光明特效和黑暗特效之间轮换：附带光明特效的攻击提供持续5秒的 护甲和魔抗。附带黑暗特效的攻击提供持续5秒的8%护甲穿透和法术穿透。"
             },
             {
               "id": 223111,
-              "name": "水银之靴"
+              "name": "水银之靴",
+              "description": "30魔法抗性\n30移动速度\n30%韧性"
             }
           ]
         },
@@ -76,23 +86,28 @@
           "items": [
             {
               "id": 224005,
-              "name": "帝国指令"
+              "name": "帝国指令",
+              "description": "60法术强度\n15技能急速\n150%基础法力回复\n控制\n你的带有定身效果的那些技能获得15技能急速。\n命令\n在定身一个敌方英雄时，为其打上标记，施加持续4秒的6%易损。"
             },
             {
               "id": 223124,
-              "name": "鬼索的狂暴之刃"
+              "name": "鬼索的狂暴之刃",
+              "description": "20攻击力\n25法术强度\n25%攻击速度\n攻击附带30魔法伤害攻击特效。\n沸腾打击\n普通攻击会提供8%攻击速度，至多可叠加4次并至多提供0攻击速度。在满层状态下，每第三次攻击会附带2次攻击特效。"
             },
             {
               "id": 223050,
-              "name": "基克的聚合"
+              "name": "基克的聚合",
+              "description": "300生命值\n25护甲\n15技能急速\n30魔法抗性\n霜火风暴\n施放你的终极技能时会召唤一个风暴环绕于你5秒。这个风暴对敌方英雄们造成每秒0魔法伤害和30%减速。"
             },
             {
               "id": 223100,
-              "name": "巫妖之祸"
+              "name": "巫妖之祸",
+              "description": "80法术强度\n10%移动速度\n20技能急速\n咒刃 (0秒)\n施放技能后，你的下一次普通攻击因强化而附带额外的0魔法伤害攻击特效。"
             },
             {
               "id": 224645,
-              "name": "影焰"
+              "name": "影焰",
+              "description": "90法术强度\n10法术穿透\n余烬绽放\n魔法伤害和真实伤害会暴击低于40%生命值的敌人，造成15%提升伤害。"
             }
           ]
         }
@@ -102,68 +117,84 @@
           "tier": "银色",
           "assets": [
             {
-              "id": 1138,
-              "name": "渴血"
-            },
-            {
-              "id": 1181,
-              "name": "重量级打击手"
-            },
-            {
-              "id": 1333,
-              "name": "逃跑计划"
-            },
-            {
-              "id": 3134,
-              "name": "孤勇者"
-            },
-            {
-              "id": 1305,
-              "name": "练腿日"
-            },
-            {
-              "id": 1007,
-              "name": "大力"
-            },
-            {
-              "id": 2073,
-              "name": "虹吸"
-            },
-            {
-              "id": 3085,
-              "name": "灵魂乐流"
-            },
-            {
-              "id": 2157,
-              "name": "升级：死亡之舞"
-            },
-            {
-              "id": 1022,
-              "name": "灵巧"
-            },
-            {
-              "id": 3055,
-              "name": "终极循环往复"
-            },
-            {
-              "id": 2026,
-              "name": "杀意翻涌"
-            },
-            {
-              "id": 2125,
-              "name": "前进时间到"
-            },
-            {
-              "id": 1206,
-              "name": "魔法转物理"
-            },
-            {
               "id": 1087,
-              "name": "台风"
+              "name": "台风",
+              "description": "你的攻击会对一个额外目标发射一个飞弹，从而造成削减过的伤害并施加。"
             },
             {
               "id": 1319,
-              "name": "升级：献祭"
+              "name": "升级：献祭",
+              "description": "【璀璨回响】和【日炎圣盾】每当有目标受到【献祭】效果影响时，提供 金币 。获得250金币。"
+            },
+            {
+              "id": 1181,
+              "name": "重量级打击手",
+              "description": "你的攻击造成相当于你最大生命值的额外物理伤害。"
+            },
+            {
+              "id": 1007,
+              "name": "大力",
+              "description": "获得 攻击力。"
+            },
+            {
+              "id": 1333,
+              "name": "逃跑计划",
+              "description": "在降至生命值时，获得巨量持续衰减的护盾、持续衰减的移动速度和持续衰减的缩小效果。(秒冷却时间)"
+            },
+            {
+              "id": 2026,
+              "name": "杀意翻涌",
+              "description": "在朝着低生命值的敌人时，获得额外移动速度。"
+            },
+            {
+              "id": 2127,
+              "name": "大师铸就",
+              "description": "使你的装备和强化符文伤害提升。"
+            },
+            {
+              "id": 3134,
+              "name": "孤勇者",
+              "description": "附近每有一个敌方英雄，你就会获得攻击速度、护甲和魔法抗性。"
+            },
+            {
+              "id": 2157,
+              "name": "升级：死亡之舞",
+              "description": "获得250金币，所受伤害延迟结算，击杀时按额外攻击力治疗"
+            },
+            {
+              "id": 3262,
+              "name": "史莱姆时间",
+              "description": "每几秒，自动施放来自你身体的一团粘液，对附近的敌人们造成魔法伤害。如果你命中了一个英雄，则会分泌出一个液团，在你走上去时治疗你。"
+            },
+            {
+              "id": 2125,
+              "name": "前进时间到",
+              "description": "激活【技能】会在其持续期间为你提供移动速度。"
+            },
+            {
+              "id": 3085,
+              "name": "灵魂乐流",
+              "description": "施放【技能】会为你提供持续一段时间的攻击速度。"
+            },
+            {
+              "id": 3265,
+              "name": "坚不可破",
+              "description": "获得20护甲，然后额外护甲提高25%。"
+            },
+            {
+              "id": 1305,
+              "name": "练腿日",
+              "description": "获得移动速度和减速抗性。"
+            },
+            {
+              "id": 1060,
+              "name": "海洋龙魂",
+              "description": "获得【海洋龙魂】，在对敌方英雄造成伤害后提供高额的生命和法力回复。"
+            },
+            {
+              "id": 2016,
+              "name": "注魔",
+              "description": "攻击特效消耗法力值以造成魔法伤害，这个伤害可以暴击。"
             }
           ]
         },
@@ -173,68 +204,90 @@
             {
               "id": 2140,
               "name": "升级：贪欲九头蛇",
+              "description": "你对敌人的技能命中会触发顺劈。提升【贪欲九头蛇】的生命偷取至20%。\n获得500金币.",
               "highlighted": true
             },
             {
               "id": 3131,
               "name": "屹立不倒",
+              "description": "基于你的已损失生命值获得攻击速度和生命偷取。",
               "highlighted": true
             },
             {
               "id": 3081,
               "name": "命运之武器",
+              "description": "你的第一件传说级装备成为命运之武器，属性基于参与击杀英雄数提升。",
+              "exclusiveItems": [
+                {
+                  "id": 222517,
+                  "name": "无穷饥渴"
+                }
+              ],
               "gameplay": "**第一件传说装备推荐**  (小技巧：7级前先不要买成装，看是否有命运之武器)\n\n命运武器削弱后，穿透装备性价比不高了，以下为最新出装\n\n刺客和战士： ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\nADC：攻速流  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  暴击流 ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n法师： ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)或者 ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n坦克： ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:败魔](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222504.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)   根据对面阵容灵活选择\n\n软辅： ![装备:黎明核心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226621.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)",
               "highlighted": true
             },
             {
               "id": 3116,
               "name": "将他们放倒倒倒",
+              "description": "普攻和技能在命中时造成额外魔法伤害并对敌方英雄施加层数。在满层时，消耗所有层数，基于已损失生命值造成魔法伤害，并基于造成的伤害回复生命值。",
               "highlighted": true
-            },
-            {
-              "id": 3078,
-              "name": "鼓声暴起 低音轰鸣"
             },
             {
               "id": 3049,
               "name": "装甲冲击",
+              "description": "施放技能后，你的下一次普通攻击会对附近敌人造成额外物理伤害。",
               "gameplay": "出门 ![装备:布甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/1029.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) x6，后续合成 ![装备:锁子甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/221031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) x4   ![装备:守望者铠甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/3082.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) x2\n\n4个![装备:锁子甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/221031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)可以合成 ![装备:冰脉护手](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226662.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:荆棘之甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223075.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:千变者贾修](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226665.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:无终恨意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222502.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n2个 ![装备:守望者铠甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/3082.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) 可以合成 ![装备:兰顿之兆](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223143.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:冰霜之心](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223110.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n如果是战士英雄，可以把 ![装备:无终恨意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222502.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) 换成 ![装备:死亡之舞](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226333.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
             },
             {
-              "id": 3129,
-              "name": "吸元秘术"
-            },
-            {
-              "id": 1029,
-              "name": "虚幻武器"
+              "id": 3078,
+              "name": "鼓声暴起 低音轰鸣",
+              "description": "施放技能后，你的下一次攻击变得更快，造成额外魔法伤害并为你提供持续衰减的移动速度。"
             },
             {
               "id": 3086,
-              "name": "小蜜蜂！！！"
+              "name": "小蜜蜂！！！",
+              "description": "每过一段时间，你的下一个命中敌方英雄的技能会发射一个会爆炸的小蜜蜂巢穴，在一段短时间里造成魔法伤害和减速。小蜜蜂附带攻击特效。"
+            },
+            {
+              "id": 2083,
+              "name": "牙仙子",
+              "description": "爆裂敌人会掉落牙齿。拾取牙齿会提供给你永久的穿甲和法术穿透。",
+              "gameplay": "**法师英雄出装：**![装备:海克斯科技发电机](https://cdn.cchappy.top/hks/assets/hextech-aram/items/3145.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:影焰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224645.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:法师之靴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223020.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:灭世者的死亡之帽](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223089.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:虚空之杖](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223135.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:中娅沙漏](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223157.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n**刺客英雄出装：**  ![装备:电震涡流剑](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226699.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:狂妄](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226697.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:公理圆弧](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226696.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:多米尼克领主的致意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223036.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:死亡之舞](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226333.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n**战士英雄出装：**![装备:星蚀](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226692.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:狂妄](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226697.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:公理圆弧](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226696.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:朔极之矛](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223161.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:死亡之舞](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226333.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)\n\n**ADC出装：** ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1) ![装备:收集者](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226676.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:多米尼克领主的致意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223036.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:公理圆弧](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226696.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:暴食胫甲](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223008.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
             },
             {
               "id": 1353,
-              "name": "坦克引擎"
+              "name": "坦克引擎",
+              "description": "参与击杀时，获得一个层数，使你的体型增大并提升最大生命值。阵亡时损失层数。"
             },
             {
-              "id": 1152,
-              "name": "钢化你心"
+              "id": 1116,
+              "name": "闪现向前",
+              "description": "你的闪现有层充能，并且冷却时间为秒。层数拥有秒充能时间。"
             },
             {
-              "id": 2096,
-              "name": "小小的额外帮助"
+              "id": 3039,
+              "name": "拯救",
+              "description": "受到伤害导致你的生命值低于时，会释放一道冲击波，对附近敌人造成伤害并将其击退，同时为你周围大范围区域内的所有友方英雄回复生命值。"
             },
             {
-              "id": 1071,
-              "name": "更万用的瞄准镜"
+              "id": 3263,
+              "name": "超坚定风采",
+              "description": "获得额外护甲、魔法抗性和韧性。当你低于40%最大生命值时，该加成会提升。"
             },
             {
-              "id": 1103,
-              "name": "面包和黄油"
+              "id": 3129,
+              "name": "吸元秘术",
+              "description": "每秒，你的下次攻击造成额外物理伤害，并为你回复生命值。施放技能会缩减该效果的冷却时间。"
             },
             {
-              "id": 1068,
-              "name": "循环往复"
+              "id": 2102,
+              "name": "高压锅",
+              "description": "每一秒，对附近的敌方英雄们施加一层可无限叠加的灼烧，在秒的持续时间里每秒造成魔法伤害。"
+            },
+            {
+              "id": 1029,
+              "name": "虚幻武器",
+              "description": "你的技能可施加。每个目标有1秒冷却时间。"
             }
           ]
         },
@@ -244,69 +297,84 @@
             {
               "id": 2141,
               "name": "终极九头蛇",
+              "description": "完成一个【九头蛇】装备时获得【提亚马特】；集齐巨型/贪欲/亵渎九头蛇后获得【终极九头蛇】",
               "highlighted": true
             },
             {
               "id": 1015,
               "name": "死亡之环",
               "tip": "平A和Q都能触发",
+              "description": "你造成的治疗效果和生命回复效果会对相距最近的那个敌方英雄造成该治疗数额的魔法伤害。",
               "highlighted": true
             },
             {
               "id": 1053,
               "name": "科学狂人",
+              "description": "在回合开始时，你的体型要么变大(获得适应之力和生命值)要么变小(获得技能急速和移动速度)。",
               "highlighted": true
             },
             {
               "id": 3016,
               "name": "伤不过三",
+              "description": "对一个敌方英雄的每第三次连续的攻击造成真实伤害并永久提升由这个技能造成的伤害。",
               "highlighted": true
+            },
+            {
+              "id": 3048,
+              "name": "弹跳蜜蜂",
+              "description": "施放技能后，你的下一次普攻会弹跳至相距最近的那个敌人。任务：将普攻弹跳至敌方英雄。奖励：每任务等级获得+攻击力和额外一次弹跳",
+              "gameplay": "以下装备都能大幅度增高弹跳蜜蜂的伤害\n\n技能频率快的英雄：亚索、刀妹、剑姬、EZ、永恩等\n\n![装备:三相之力](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223078.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:多米尼克领主的致意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223036.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  + 其他核心装备\n\n一刀流秒人类英雄：VN、德莱文、船长、小丑等\n\n![装备:夺萃之镰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223508.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:多米尼克领主的致意](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223036.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:无尽之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223031.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:海克斯镜片 C44](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222523.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:无穷饥渴](https://cdn.cchappy.top/hks/assets/hextech-aram/items/222517.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:破败王者之刃](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223153.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
+            },
+            {
+              "id": 1001,
+              "name": "泰坦的坚决",
+              "description": "在承受或造成伤害时获得层数。每层，获得适应之力、护甲、魔法抗性、体型和韧性。"
             },
             {
               "id": 1058,
               "name": "秘术冲拳",
-              "tip": "QR附带攻击特效"
-            },
-            {
-              "id": 1041,
-              "name": "歌利亚巨人"
+              "tip": "QR附带攻击特效",
+              "description": "使你的各个基础技能的冷却时间缩减其剩余冷却时间。"
             },
             {
               "id": 1225,
-              "name": "双刀流"
+              "name": "双刀流",
+              "description": "在攻击时，发射一根次级弩箭，造成效能削减的附带。获得总攻击速度。"
             },
             {
-              "id": 1310,
-              "name": "小丑学院"
+              "id": 1389,
+              "name": "男爵之手",
+              "description": "获得适应之力。附近友方小兵都获得极大增强。"
             },
             {
-              "id": 1001,
-              "name": "泰坦的坚决"
+              "id": 1361,
+              "name": "艾卡西亚的陷落",
+              "description": "即刻：获得1个【斑比的熔渣】。\n任务：持有日炎圣盾和璀璨回响。\n奖励：将这些装备合成为虚空献祭。"
             },
             {
-              "id": 1079,
-              "name": "战争交响乐"
-            },
-            {
-              "id": 1329,
-              "name": "史上最大雪球",
-              "gameplay": "推荐AP出装：\n![装备:卢登的回声](https://cdn.cchappy.top/hks/assets/hextech-aram/items/226655.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:影焰](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224645.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:风暴狂涌](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224646.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:灭世者的死亡之帽](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223089.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:虚空之杖](https://cdn.cchappy.top/hks/assets/hextech-aram/items/223135.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)  ![装备:视界专注](https://cdn.cchappy.top/hks/assets/hextech-aram/items/224628.png?imageView2/1/w/64/h/64/format/webp/q/75/ignore-error/1)"
-            },
-            {
-              "id": 1004,
-              "name": "回归基本功"
+              "id": 1041,
+              "name": "歌利亚巨人",
+              "description": "体型变大，获得生命值和适应之力。"
             },
             {
               "id": 1006,
-              "name": "利刃华尔兹"
+              "name": "利刃华尔兹",
+              "description": "让你进入不可被选取状态，在此期间对敌人进行突进并造成物理伤害次(造成50%附带伤害)。"
             },
             {
-              "id": 1388,
-              "name": "无限循环往复"
+              "id": 1310,
+              "name": "小丑学院",
+              "description": "背刺：你从背后袭击敌人时，会造成额外物理伤害。"
             },
             {
-              "id": 1154,
-              "name": "海牛阿福的勇士"
+              "id": 1004,
+              "name": "回归基本功",
+              "description": "你的终极技能已被封印。获得技能伤害、治疗效果、护盾，和技能急速。"
+            },
+            {
+              "id": 1335,
+              "name": "夺金",
+              "description": "用攻击或技能对一个英雄造成伤害时会造成额外魔法伤害，并为你提供金币和持续秒的移动速度(每个英雄有秒冷却时间)。"
             }
           ]
         }
