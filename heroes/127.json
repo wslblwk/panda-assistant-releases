@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 127,
   "name": "丽桑卓",
+  "rank": 108,
+  "winRate": 48.6,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

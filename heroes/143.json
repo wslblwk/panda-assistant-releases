@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 143,
   "name": "婕拉",
+  "rank": 59,
+  "winRate": 50.41,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

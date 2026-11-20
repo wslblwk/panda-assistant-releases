@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 254,
   "name": "蔚",
+  "rank": 140,
+  "winRate": 47.25,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

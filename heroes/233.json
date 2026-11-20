@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 233,
   "name": "贝蕾亚",
+  "rank": 82,
+  "winRate": 49.61,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "治疗效果",
+      "value": 10,
+      "unit": "%",
+      "type": "Healing"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

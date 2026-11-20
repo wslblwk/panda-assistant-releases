@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 77,
   "name": "乌迪尔",
+  "rank": 129,
+  "winRate": 47.79,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1310,

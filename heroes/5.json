@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 5,
   "name": "赵信",
+  "rank": 5,
+  "winRate": 54.85,
+  "tier": "T2",
   "specialMechanisms": [
     {
       "augmentId": 1087,

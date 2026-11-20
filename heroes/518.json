@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 518,
   "name": "妮蔻",
+  "rank": 158,
+  "winRate": 46.08,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

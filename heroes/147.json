@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 147,
   "name": "萨勒芬妮",
+  "rank": 36,
+  "winRate": 51.66,
+  "tier": "T2",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": 20,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

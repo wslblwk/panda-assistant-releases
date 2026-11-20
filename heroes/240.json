@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 240,
   "name": "克烈",
+  "rank": 83,
+  "winRate": 49.58,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2119,

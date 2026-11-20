@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 350,
   "name": "悠米",
+  "rank": 23,
+  "winRate": 52.55,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

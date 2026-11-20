@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 67,
   "name": "薇恩",
+  "rank": 52,
+  "winRate": 50.68,
+  "tier": "T2",
   "specialMechanisms": [
     {
       "augmentId": 2111,

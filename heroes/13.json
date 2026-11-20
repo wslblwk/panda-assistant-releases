@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 13,
   "name": "瑞兹",
+  "rank": 27,
+  "winRate": 52.35,
+  "tier": "T2",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 105,
   "name": "菲兹",
+  "rank": 71,
+  "winRate": 50.01,
+  "tier": "T2",
   "builds": [
     {
       "name": "常规出装",

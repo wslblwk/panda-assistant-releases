@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 901,
   "name": "斯莫德",
+  "rank": 65,
+  "winRate": 50.07,
+  "tier": "T3",
   "builds": [
     {
       "name": "常规出装",

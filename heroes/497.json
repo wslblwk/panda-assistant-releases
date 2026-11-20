@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 497,
   "name": "洛",
+  "rank": 130,
+  "winRate": 47.64,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "技能急速",
+      "value": 10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

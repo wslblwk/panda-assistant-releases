@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 163,
   "name": "塔莉垭",
+  "rank": 81,
+  "winRate": 49.61,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

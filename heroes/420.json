@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 420,
   "name": "俄洛伊",
+  "rank": 141,
+  "winRate": 47.22,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "治疗效果",
+      "value": -10,
+      "unit": "%",
+      "type": "Healing"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

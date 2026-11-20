@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 517,
   "name": "塞拉斯",
+  "rank": 91,
+  "winRate": 49.36,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

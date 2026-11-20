@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 90,
   "name": "玛尔扎哈",
+  "rank": 45,
+  "winRate": 51.12,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1029,

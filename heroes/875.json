@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 875,
   "name": "瑟提",
+  "rank": 43,
+  "winRate": 51.16,
+  "tier": "T2",
   "specialMechanisms": [
     {
       "augmentId": 2062,

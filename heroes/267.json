@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 267,
   "name": "娜美",
+  "rank": 57,
+  "winRate": 50.48,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

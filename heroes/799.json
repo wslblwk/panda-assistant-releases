@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 799,
   "name": "安蓓萨",
+  "rank": 18,
+  "winRate": 52.94,
+  "tier": "T3",
   "builds": [
     {
       "name": "常规出装",

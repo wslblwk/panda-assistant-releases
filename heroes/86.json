@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 86,
   "name": "盖伦",
+  "rank": 164,
+  "winRate": 45.69,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

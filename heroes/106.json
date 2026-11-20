@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 106,
   "name": "沃利贝尔",
+  "rank": 37,
+  "winRate": 51.65,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1386,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 43,
   "name": "卡尔玛",
+  "rank": 98,
+  "winRate": 48.97,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

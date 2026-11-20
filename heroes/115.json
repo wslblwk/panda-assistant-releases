@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 115,
   "name": "吉格斯",
+  "rank": 87,
+  "winRate": 49.44,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": 20,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "技能急速",
+      "value": -20,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

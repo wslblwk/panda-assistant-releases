@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 236,
   "name": "卢锡安",
+  "rank": 30,
+  "winRate": 52.25,
+  "tier": "T2",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": 10,
+      "unit": "",
+      "type": "Ability Haste"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2032,

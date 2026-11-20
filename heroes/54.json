@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 54,
   "name": "墨菲特",
+  "rank": 111,
+  "winRate": 48.4,
+  "tier": "T4",
   "builds": [
     {
       "name": "常规出装",

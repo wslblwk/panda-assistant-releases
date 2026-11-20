@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 23,
   "name": "泰达米尔",
+  "rank": 47,
+  "winRate": 51.04,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "治疗效果",
+      "value": 20,
+      "unit": "%",
+      "type": "Healing"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2087,

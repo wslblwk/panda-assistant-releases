@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 69,
   "name": "卡西奥佩娅",
+  "rank": 160,
+  "winRate": 45.83,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 893,
   "name": "阿萝拉",
+  "rank": 58,
+  "winRate": 50.44,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": 10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

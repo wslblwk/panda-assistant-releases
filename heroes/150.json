@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 150,
   "name": "纳尔",
+  "rank": 150,
+  "winRate": 46.7,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "攻击速度",
+      "value": 2.5,
+      "unit": "%",
+      "type": "Attack Speed"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

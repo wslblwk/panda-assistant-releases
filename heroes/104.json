@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 104,
   "name": "格雷福斯",
+  "rank": 42,
+  "winRate": 51.16,
+  "tier": "T2",
   "builds": [
     {
       "name": "常规出装",

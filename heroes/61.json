@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 61,
   "name": "奥莉安娜",
+  "rank": 99,
+  "winRate": 48.9,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

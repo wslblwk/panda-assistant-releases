@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 99,
   "name": "拉克丝",
+  "rank": 103,
+  "winRate": 48.79,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "护盾效果",
+      "value": -10,
+      "unit": "%",
+      "type": "Shielding"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

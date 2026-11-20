@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 112,
   "name": "维克托",
+  "rank": 35,
+  "winRate": 51.71,
+  "tier": "T3",
   "builds": [
     {
       "name": "常规出装",

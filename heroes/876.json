@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 876,
   "name": "莉莉娅",
+  "rank": 14,
+  "winRate": 53.54,
+  "tier": "T2",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

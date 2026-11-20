@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 2,
   "name": "奥拉夫",
+  "rank": 131,
+  "winRate": 47.59,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

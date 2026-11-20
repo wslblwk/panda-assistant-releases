@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 887,
   "name": "格温",
+  "rank": 6,
+  "winRate": 54.5,
+  "tier": "T3",
   "builds": [
     {
       "name": "常规出装",

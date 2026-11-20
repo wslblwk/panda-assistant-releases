@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 157,
   "name": "亚索",
+  "rank": 1,
+  "winRate": 58.3,
+  "tier": "T1",
+  "balanceAdjustments": [
+    {
+      "label": "攻击速度",
+      "value": 2.5,
+      "unit": "%",
+      "type": "Attack Speed"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1310,

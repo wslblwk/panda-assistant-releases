@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 51,
   "name": "凯特琳",
+  "rank": 63,
+  "winRate": 50.09,
+  "tier": "T2",
   "builds": [
     {
       "name": "常规出装",

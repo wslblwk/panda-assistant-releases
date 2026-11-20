@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 200,
   "name": "卑尔维斯",
+  "rank": 4,
+  "winRate": 55.28,
+  "tier": "T3",
   "builds": [
     {
       "name": "常规出装",

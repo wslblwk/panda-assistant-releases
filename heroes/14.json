@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 14,
   "name": "赛恩",
+  "rank": 68,
+  "winRate": 50.04,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "技能急速",
+      "value": -10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2115,

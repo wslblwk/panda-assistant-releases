@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 202,
   "name": "烬",
+  "rank": 94,
+  "winRate": 49.06,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2054,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 136,
   "name": "奥瑞利安·索尔",
+  "rank": 51,
+  "winRate": 50.81,
+  "tier": "T2",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 800,
   "name": "梅尔",
+  "rank": 89,
+  "winRate": 49.42,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": -10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

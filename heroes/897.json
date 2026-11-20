@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 897,
   "name": "奎桑提",
+  "rank": 170,
+  "winRate": 44.74,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1194,

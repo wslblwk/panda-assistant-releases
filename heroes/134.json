@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 134,
   "name": "辛德拉",
+  "rank": 73,
+  "winRate": 49.89,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

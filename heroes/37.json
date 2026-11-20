@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 37,
   "name": "娑娜",
+  "rank": 16,
+  "winRate": 53.36,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

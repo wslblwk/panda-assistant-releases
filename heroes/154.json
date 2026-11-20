@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 154,
   "name": "扎克",
+  "rank": 162,
+  "winRate": 45.73,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "治疗效果",
+      "value": 10,
+      "unit": "%",
+      "type": "Healing"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

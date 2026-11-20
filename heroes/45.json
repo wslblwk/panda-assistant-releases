@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 45,
   "name": "维迦",
+  "rank": 69,
+  "winRate": 50.03,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -7,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

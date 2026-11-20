@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 12,
   "name": "阿利斯塔",
+  "rank": 32,
+  "winRate": 51.96,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

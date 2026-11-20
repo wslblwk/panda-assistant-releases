@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 35,
   "name": "萨科",
+  "rank": 123,
+  "winRate": 48.05,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

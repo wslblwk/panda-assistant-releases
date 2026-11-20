@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 203,
   "name": "千珏",
+  "rank": 149,
+  "winRate": 46.8,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "攻击速度",
+      "value": 2.5,
+      "unit": "%",
+      "type": "Attack Speed"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1058,

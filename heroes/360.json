@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 360,
   "name": "莎弥拉",
+  "rank": 122,
+  "winRate": 48.09,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

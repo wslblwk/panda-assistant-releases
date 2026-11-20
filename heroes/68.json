@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 68,
   "name": "兰博",
+  "rank": 86,
+  "winRate": 49.45,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 3086,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 131,
   "name": "黛安娜",
+  "rank": 148,
+  "winRate": 46.85,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1029,

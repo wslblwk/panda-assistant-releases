@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 84,
   "name": "阿卡丽",
+  "rank": 171,
+  "winRate": 44.46,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    },
+    {
+      "label": "能量回复",
+      "value": 20,
+      "unit": "%",
+      "type": "Energy Regen"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 80,
   "name": "潘森",
+  "rank": 54,
+  "winRate": 50.54,
+  "tier": "T3",
   "specialMechanisms": [
     {
       "augmentId": 3086,

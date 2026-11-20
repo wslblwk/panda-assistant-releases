@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 6,
   "name": "厄加特",
+  "rank": 163,
+  "winRate": 45.72,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1001,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 26,
   "name": "基兰",
+  "rank": 33,
+  "winRate": 51.94,
+  "tier": "T4",
   "builds": [
     {
       "name": "常规出装",

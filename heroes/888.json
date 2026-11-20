@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 888,
   "name": "烈娜塔 · 戈拉斯克",
+  "rank": 44,
+  "winRate": 51.16,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

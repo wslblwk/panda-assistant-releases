@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 221,
   "name": "泽丽",
+  "rank": 147,
+  "winRate": 46.86,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2107,

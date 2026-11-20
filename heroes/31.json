@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 31,
   "name": "科加斯",
+  "rank": 135,
+  "winRate": 47.56,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 498,
   "name": "霞",
+  "rank": 121,
+  "winRate": 48.15,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1113,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 9,
   "name": "费德提克",
+  "rank": 133,
+  "winRate": 47.58,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1006,

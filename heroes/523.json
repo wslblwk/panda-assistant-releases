@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 523,
   "name": "厄斐琉斯",
+  "rank": 97,
+  "winRate": 48.97,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 1004,

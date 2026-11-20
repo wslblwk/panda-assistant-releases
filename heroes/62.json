@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 62,
   "name": "孙悟空",
+  "rank": 77,
+  "winRate": 49.73,
+  "tier": "T4",
   "builds": [
     {
       "name": "常规出装",

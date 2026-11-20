@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 110,
   "name": "韦鲁斯",
+  "rank": 126,
+  "winRate": 47.94,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 2131,

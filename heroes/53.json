@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 53,
   "name": "布里茨",
+  "rank": 143,
+  "winRate": 47.19,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

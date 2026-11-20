@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 11,
   "name": "易",
+  "rank": 13,
+  "winRate": 53.64,
+  "tier": "T1",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 74,
   "name": "黑默丁格",
+  "rank": 60,
+  "winRate": 50.26,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1113,

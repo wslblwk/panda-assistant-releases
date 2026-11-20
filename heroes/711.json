@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 711,
   "name": "薇古丝",
+  "rank": 96,
+  "winRate": 48.98,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

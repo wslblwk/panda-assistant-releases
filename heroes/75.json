@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 75,
   "name": "内瑟斯",
+  "rank": 75,
+  "winRate": 49.88,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

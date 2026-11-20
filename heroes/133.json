@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 133,
   "name": "奎因",
+  "rank": 146,
+  "winRate": 47.01,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

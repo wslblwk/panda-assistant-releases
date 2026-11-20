@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 101,
   "name": "泽拉斯",
+  "rank": 85,
+  "winRate": 49.52,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -7,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

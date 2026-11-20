@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 29,
   "name": "图奇",
+  "rank": 136,
+  "winRate": 47.5,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

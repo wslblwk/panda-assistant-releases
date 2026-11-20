@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 238,
   "name": "劫",
+  "rank": 93,
+  "winRate": 49.29,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    },
+    {
+      "label": "能量回复",
+      "value": 20,
+      "unit": "%",
+      "type": "Energy Regen"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

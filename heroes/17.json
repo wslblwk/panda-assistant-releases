@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 17,
   "name": "提莫",
+  "rank": 12,
+  "winRate": 53.74,
+  "tier": "T1",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

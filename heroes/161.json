@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 161,
   "name": "维克兹",
+  "rank": 53,
+  "winRate": 50.56,
+  "tier": "T4",
   "builds": [
     {
       "name": "常规出装",

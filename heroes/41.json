@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 41,
   "name": "普朗克",
+  "rank": 88,
+  "winRate": 49.43,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

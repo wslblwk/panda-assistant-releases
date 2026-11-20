@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 117,
   "name": "璐璐",
+  "rank": 125,
+  "winRate": 47.95,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

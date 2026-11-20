@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 55,
   "name": "卡特琳娜",
+  "rank": 74,
+  "winRate": 49.88,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": 10,
+      "unit": "",
+      "type": "Ability Haste"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1154,

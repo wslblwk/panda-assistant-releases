@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 427,
   "name": "艾翁",
+  "rank": 31,
+  "winRate": 52.02,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "护盾效果",
+      "value": -10,
+      "unit": "%",
+      "type": "Shielding"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

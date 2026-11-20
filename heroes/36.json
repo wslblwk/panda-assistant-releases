@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 36,
   "name": "蒙多医生",
+  "rank": 40,
+  "winRate": 51.29,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -8,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "治疗效果",
+      "value": -10,
+      "unit": "%",
+      "type": "Healing"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 22,
   "name": "艾希",
+  "rank": 172,
+  "winRate": 44.34,
+  "tier": "T5",
   "specialMechanisms": [
     {
       "augmentId": 2135,

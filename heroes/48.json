@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 48,
   "name": "特朗德尔",
+  "rank": 48,
+  "winRate": 50.99,
+  "tier": "T2",
   "specialMechanisms": [
     {
       "augmentId": 1329,

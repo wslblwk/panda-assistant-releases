@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 81,
   "name": "伊泽瑞尔",
+  "rank": 128,
+  "winRate": 47.84,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

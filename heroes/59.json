@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 59,
   "name": "嘉文四世",
+  "rank": 156,
+  "winRate": 46.14,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

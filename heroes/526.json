@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 526,
   "name": "芮尔",
+  "rank": 9,
+  "winRate": 54.22,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "护盾效果",
+      "value": -10,
+      "unit": "%",
+      "type": "Shielding"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

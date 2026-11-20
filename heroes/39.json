@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 39,
   "name": "艾瑞莉娅",
+  "rank": 78,
+  "winRate": 49.72,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": 20,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

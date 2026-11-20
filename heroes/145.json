@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 145,
   "name": "卡莎",
+  "rank": 95,
+  "winRate": 49.02,
+  "tier": "T2",
   "specialMechanisms": [
     {
       "augmentId": 1113,

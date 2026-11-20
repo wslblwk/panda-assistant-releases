@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 113,
   "name": "瑟庄妮",
+  "rank": 106,
+  "winRate": 48.62,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

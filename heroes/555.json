@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 555,
   "name": "派克",
+  "rank": 124,
+  "winRate": 48,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2032,

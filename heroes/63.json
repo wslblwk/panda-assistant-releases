@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 63,
   "name": "布兰德",
+  "rank": 72,
+  "winRate": 49.92,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "技能急速",
+      "value": -10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1113,

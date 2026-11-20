@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 8,
   "name": "弗拉基米尔",
+  "rank": 110,
+  "winRate": 48.47,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

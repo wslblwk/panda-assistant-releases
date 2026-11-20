@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 516,
   "name": "奥恩",
+  "rank": 132,
+  "winRate": 47.58,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1194,

@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 804,
   "name": "芸阿娜",
+  "rank": 90,
+  "winRate": 49.41,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

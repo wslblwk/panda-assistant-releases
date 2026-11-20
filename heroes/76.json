@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 76,
   "name": "奈德丽",
+  "rank": 137,
+  "winRate": 47.5,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 2072,

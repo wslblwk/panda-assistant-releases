@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 32,
   "name": "阿木木",
+  "rank": 105,
+  "winRate": 48.65,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

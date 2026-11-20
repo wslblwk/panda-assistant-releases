@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 15,
   "name": "希维尔",
+  "rank": 116,
+  "winRate": 48.28,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -8,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1335,

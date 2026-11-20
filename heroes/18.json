@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 18,
   "name": "崔丝塔娜",
+  "rank": 145,
+  "winRate": 47.02,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

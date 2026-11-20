@@ -2,6 +2,29 @@
   "schema": 1,
   "id": 805,
   "name": "洛克",
+  "rank": 159,
+  "winRate": 45.9,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

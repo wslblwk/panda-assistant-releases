@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 121,
   "name": "卡兹克",
+  "rank": 101,
+  "winRate": 48.81,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",

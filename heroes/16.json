@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 16,
   "name": "索拉卡",
+  "rank": 49,
+  "winRate": 50.93,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "技能急速",
+      "value": 10,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "specialMechanisms": [
     {
       "augmentId": 1113,

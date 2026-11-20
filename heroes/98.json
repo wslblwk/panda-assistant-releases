@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 98,
   "name": "慎",
+  "rank": 38,
+  "winRate": 51.55,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

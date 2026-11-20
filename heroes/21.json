@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 21,
   "name": "厄运小姐",
+  "rank": 50,
+  "winRate": 50.84,
+  "tier": "T2",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "AP出装",

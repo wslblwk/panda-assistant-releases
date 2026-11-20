@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 42,
   "name": "库奇",
+  "rank": 29,
+  "winRate": 52.27,
+  "tier": "T3",
+  "balanceAdjustments": [
+    {
+      "label": "承受伤害",
+      "value": -5,
+      "unit": "%",
+      "type": "Damage Received"
+    },
+    {
+      "label": "技能急速",
+      "value": -20,
+      "unit": "",
+      "type": "Ability Haste"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

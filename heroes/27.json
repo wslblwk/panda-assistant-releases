@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 27,
   "name": "辛吉德",
+  "rank": 64,
+  "winRate": 50.08,
+  "tier": "T4",
   "builds": [
     {
       "name": "常规出装",

@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 245,
   "name": "艾克",
+  "rank": 17,
+  "winRate": 53.07,
+  "tier": "T2",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 5,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "韧性",
+      "value": 20,
+      "unit": "%",
+      "type": "Tenacity"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

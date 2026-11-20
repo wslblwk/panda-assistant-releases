@@ -2,6 +2,17 @@
   "schema": 1,
   "id": 30,
   "name": "卡尔萨斯",
+  "rank": 152,
+  "winRate": 46.56,
+  "tier": "T4",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": -7,
+      "unit": "%",
+      "type": "Damage Dealt"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

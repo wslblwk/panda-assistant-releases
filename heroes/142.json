@@ -2,6 +2,23 @@
   "schema": 1,
   "id": 142,
   "name": "佐伊",
+  "rank": 134,
+  "winRate": 47.58,
+  "tier": "T5",
+  "balanceAdjustments": [
+    {
+      "label": "输出伤害",
+      "value": 10,
+      "unit": "%",
+      "type": "Damage Dealt"
+    },
+    {
+      "label": "承受伤害",
+      "value": -10,
+      "unit": "%",
+      "type": "Damage Received"
+    }
+  ],
   "builds": [
     {
       "name": "常规出装",

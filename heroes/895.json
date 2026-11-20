@@ -2,6 +2,9 @@
   "schema": 1,
   "id": 895,
   "name": "尼菈",
+  "rank": 56,
+  "winRate": 50.5,
+  "tier": "T5",
   "builds": [
     {
       "name": "常规出装",
